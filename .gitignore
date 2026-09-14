@@ -1,0 +1,29 @@
+# Unreal / IDE generated output
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.sln
+
+# User-supplied / copyrighted game data — never commit
+SourceData/
+GameData/
+UserGameData/
+Vampire/
+Unofficial_Patch/
+ThirdPartyGameData/
+*.vpk
+
+# Runtime-generated data
+Cache/
+Logs/
+Saves/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
