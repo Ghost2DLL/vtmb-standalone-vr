@@ -1,10 +1,10 @@
 # GhostDLL — VTMB Standalone VR Experiment
 
 > Early technical proof of concept for a standalone VR runtime targeting Meta Quest 3.
+[![Watch the early Quest 3 proof of concept](preview.jpg)](GhostDLL_Bloodlines_VR_POC_GitHub_under10MB.mp4)
 
-[![Watch the early Quest 3 proof of concept](media/preview.jpg)](media/GhostDLL_Bloodlines_VR_POC_GitHub_under10MB.mp4)
+**[Watch the proof-of-concept video](GhostDLL_Bloodlines_VR_POC_GitHub_under10MB.mp4)**
 
-**[Watch the proof-of-concept video](media/GhostDLL_Bloodlines_VR_POC_GitHub_under10MB.mp4)**
 
 ## Why this project exists
 
